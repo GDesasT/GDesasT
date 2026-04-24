@@ -1,4 +1,4 @@
-# 👋 Hola, soy Gerardo
+# 👋 Hola, soy Juan Gerardo Alcantar Torres
 
 🎓 Estudiante de desarrollo de software  
 💻 Enfocado en desarrollo web (backend y frontend)  
@@ -30,24 +30,24 @@ Me interesa:
 
 ## 📚 Actualmente aprendiendo
 
-- Mejores prácticas en desarrollo web  
 - Arquitectura de aplicaciones  
-- APIs y backend con Laravel  
-- Frontend moderno con Angular  
+- APIs con Laravel  
+- Desarrollo frontend con Angular  
+- Mejores prácticas en desarrollo web  
 
 ---
 
 ## 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GDesasT&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GDesasT&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Racha de contribuciones
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=GDesasT&theme=tokyonight)
 
 ---
 
@@ -60,30 +60,23 @@ Desarrollo de una aplicación web enfocada en la gestión y optimización de pro
 **Enfoque:**
 - Backend con Laravel  
 - Frontend con Angular  
-- Organización y eficiencia en el manejo de datos  
+- Manejo eficiente de datos  
 
-*(Aquí luego agregas link a tu repo)*
-
----
-
-## 🎯 Objetivos
-
-- Convertirme en desarrollador full stack sólido  
-- Dominar backend con Laravel  
-- Mejorar en frontend con Angular  
-- Construir proyectos reales de alto impacto  
+*(Aquí agrega el link de tu repo cuando lo subas)*
 
 ---
 
 ## 👀 Visitas al perfil
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=GDesasT&color=blueviolet&style=for-the-badge)
 
 ---
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/TU_USUARIO
+- GitHub: https://github.com/GDesasT  
+- LinkedIn: https://www.linkedin.com/in/juan-gerardo-alcantar-torres-374077328/  
+- Twitch: https://twitch.tv/GDesasT  
 
 ---
 
