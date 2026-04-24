@@ -1,38 +1,39 @@
 # 👋 Hola, soy Gerardo
 
 🎓 Estudiante de desarrollo de software  
-💻 Interesado en programación, automatización y optimización de procesos  
+💻 Enfocado en desarrollo web (backend y frontend)  
 📍 México  
 
 ---
 
 ## 🚀 Sobre mí
 
-Actualmente estoy construyendo bases sólidas en programación, enfocándome en lógica, estructuras de datos y resolución de problemas.
+Actualmente me estoy formando en desarrollo de software, con enfoque en aplicaciones web modernas usando tecnologías como Laravel y Angular.
 
 Me interesa:
-- Optimizar procesos (incluyendo soluciones con Excel)
-- Entender cómo funcionan las cosas, no solo usarlas
-- Aplicar lo aprendido en proyectos reales
+- Construir aplicaciones funcionales y bien estructuradas  
+- Optimizar procesos y automatizar tareas  
+- Entender a fondo cómo funcionan las tecnologías que utilizo  
 
 ---
 
 ## 🧰 Tecnologías
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CSharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
 ## 📚 Actualmente aprendiendo
 
-- Arreglos (arrays)
-- Lógica de programación
-- Estructuras de datos básicas
-- Resolución de problemas
+- Mejores prácticas en desarrollo web  
+- Arquitectura de aplicaciones  
+- APIs y backend con Laravel  
+- Frontend moderno con Angular  
 
 ---
 
@@ -52,25 +53,25 @@ Me interesa:
 
 ## 📌 Proyecto destacado
 
-### 📊 Optimización de control de bonos
+### 🌐 Aplicación web (Laravel + Angular)
 
-Desarrollé una solución en Excel para mejorar el registro y control de producción del personal operativo.
+Desarrollo de una aplicación web enfocada en la gestión y optimización de procesos.
 
 **Enfoque:**
-- Reducción de errores manuales  
-- Mejor organización de datos  
-- Mayor eficiencia en captura  
+- Backend con Laravel  
+- Frontend con Angular  
+- Organización y eficiencia en el manejo de datos  
 
-*(Aquí puedes agregar capturas o link al repositorio)*
+*(Aquí luego agregas link a tu repo)*
 
 ---
 
 ## 🎯 Objetivos
 
-- Dominar fundamentos de programación
-- Aprender desarrollo backend
-- Construir proyectos reales
-- Mejorar en algoritmos y estructuras de datos
+- Convertirme en desarrollador full stack sólido  
+- Dominar backend con Laravel  
+- Mejorar en frontend con Angular  
+- Construir proyectos reales de alto impacto  
 
 ---
 
@@ -83,7 +84,6 @@ Desarrollé una solución en Excel para mejorar el registro y control de producc
 ## 📫 Contacto
 
 - GitHub: https://github.com/TU_USUARIO
-- Email: (opcional)
 
 ---
 
